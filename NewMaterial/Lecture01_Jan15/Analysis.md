@@ -191,7 +191,7 @@ $$\|\mathbf{x} + \mathbf{y}\| \leq \|\mathbf{x}\| + \|\mathbf{y}\|$$
 **Reverse triangle inequality:**
 $$\big| \|\mathbf{x}\| - \|\mathbf{y}\| \big| \leq \|\mathbf{x} - \mathbf{y}\|$$
 
-### H�lder''s Inequality
+### Holder''s Inequality
 
 For $p, q \geq 1$ with $\frac{1}{p} + \frac{1}{q} = 1$ (conjugate exponents):
 $$\sum_{i=1}^n |x_i y_i| \leq \|\mathbf{x}\|_p \|\mathbf{y}\|_q$$
