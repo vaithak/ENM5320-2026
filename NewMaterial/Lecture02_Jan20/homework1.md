@@ -4,6 +4,8 @@ In class we learned the basics of the finite difference method (FDM), and I gave
 
 For now, I want to make sure everyone is comfortable making this code go. I've already written it for you, but I want you to use it to run some experiments. 
 
+**Submission.** All assignments will be submitted via [Canvas](https://canvas.upenn.edu/courses/1912564/assignments/14405090). You are free to choose how to submit (scanned handwritten notes/Latex/markdown/whatever). Be sure to include Jupyter notebooks of all code written, and you may want to also submit screen shots of your code output in case we have trouble rerunning your code. 
+
 **AI use policy:** You are encouraged to use LLMs to help you explain code and to debug your own code. In order to succeed as the class gets progressively more difficult, you will however need command over how a code like this is structured. **Do not** just ask an LLM to complete these assignments or you will lose out on building the muscle memory needed to complete future assignments!
 
 # Question 1 - Consistency of FDM
